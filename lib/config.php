@@ -1,6 +1,6 @@
 <?php
 // bot characteristics
-$TELEGRAM_BOTNAME="samplebot";
+$TELEGRAM_BOTNAME="klik4bot";
 $TELEGRAM_TOKEN="424480648:AAFwS-KLfQWp54XlTw4PfF7JYaQyi39rGXQ";
 // database connection information
 $DB_PORT=3306;
